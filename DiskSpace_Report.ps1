@@ -6,7 +6,7 @@ $dir = Split-Path $scriptpath
 
 #Variables to configure
 $percentWarning = 25;
-$percentCritcal = 15;
+$percentCritcal = 10;
 $smtpServer = "xx.xx.xx.xx" 
 $ReportSender = "xxx@xx.com.br"  
 $users = "xxx@xx.com.br"; 
